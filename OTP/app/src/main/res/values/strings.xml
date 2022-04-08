@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">otpver</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="please_enter_your_phone_number">Please enter your Phone Number</string>
+    <string name="otp_will_be_sent_to_the_given_phone_number">OTP will be sent to the given Phone Number</string>
+    <string name="get_otp">Get OTP!</string>
+    <string name="phonenum_hint">4161234567</string>
+    <string name="please_enter_the_otp_sent_to_your_phone_number">Please Enter the OTP sent to your Phone Number</string>
+    <string name="submit">submit</string>
+</resources>
